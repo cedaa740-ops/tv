@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "fullscreen",
+  "name": "بلادي سبورت - كأس العالم",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "cedaa740-ops.github",
+  "start_url": "https://cedaa740-ops.github.io/tv/",
+  "theme_color": "#ffffff",
+  "id": "Com.bladisport1.lovable.app",
+  "description": "مشاهدة المباريات",
+  "lang": "ar",
+  "categories": [
+    "network",
+    "social",
+    "sports"
+  ]
+}
